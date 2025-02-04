@@ -1,4 +1,4 @@
-[![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://rishavchanda.io)
+![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Kamaleshwaran A</h1>
 <h3 align="center">An Aspiring and passionate full-stack developer🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/bannerr.gif">
