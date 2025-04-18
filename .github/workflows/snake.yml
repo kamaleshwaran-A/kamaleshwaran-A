@@ -24,7 +24,7 @@ jobs:
           git commit -m "Add snake animation"
           git push origin main
 
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: snake-graphic
           path: ./dist/github-contribution-grid-snake.svg
