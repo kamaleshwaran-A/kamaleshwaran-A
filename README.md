@@ -1,6 +1,11 @@
-<h2 align="left">Hello 👋! I am Kamaleshwaran A</h2>
+<h2 align="left">👋 Hello! I am Kamaleshwaran A</h2>
 
 ###
+
+  
+<p>I am an aspiring Full Stack Developer 💻 passionate about building new applications that shape the world 🌍. I'm driven by a passion for innovation and creativity, always looking to push the boundaries of what's possible. I enjoy exploring both frontend and backend development, constantly learning and adapting to new technologies. With a focus on creating seamless user experiences, I strive to make impactful contributions to every project I work on. I'm excited about the endless possibilities of tech and how it can improve lives.</p>
+
+<h2 align="left"> 💻 Tech Stack: </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
@@ -58,13 +63,23 @@
 
 ###
 
+<h2 align="left">📊 GitHub Stats:</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshwaran-A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=kamaleshwaran-A&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamaleshwaran-A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshwaran-A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamaleshwaran-A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kamaleshwaran-A&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
+
+<h2 align="left">🌐 Socials:</h2>
 
 <div align="left">
   <a href="www.linkedin.com/in/kamaleshwaranathappan" target="_blank">
@@ -83,14 +98,11 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">🚀GitHub Contributions  </h2>
 
-<img src="https://raw.githubusercontent.com/kamaleshwaran-A/kamaleshwaran-A/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamaleshwaran-A.kamaleshwaran-A&left_color=aquamarine&right_color=aliceblue"  />
-</div>
+<img src="https://github.com/kamaleshwaran-A/kamaleshwaran-A/raw/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+
+
