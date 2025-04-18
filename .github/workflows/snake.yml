@@ -14,11 +14,17 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/upload-artifact@v4
+      - name: Commit Snake Animation to main branch
+        run: |
+          git config --global user.name "kamaleshwaran-A"
+          git config --global user.email "your-email@example.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Add snake animation"
+          git push origin main
+
+      - uses: actions/upload-artifact@v2
         with:
           name: snake-graphic
-          path: dist
+          path: ./dist/github-contribution-grid-snake.svg
