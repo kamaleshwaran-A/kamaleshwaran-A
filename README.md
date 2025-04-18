@@ -98,7 +98,7 @@
 
 ###
 
-<h2 align="left">🚀GitHub Contributions  </h2>
+<h2 align="left">🚀GitHub Contributions: </h2>
 
 <img src="https://github.com/kamaleshwaran-A/kamaleshwaran-A/raw/output/github-snake-dark.svg" alt="Snake animation" />
 
